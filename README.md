@@ -12,3 +12,6 @@ Once you have folder "Data\BusinessReg2009" and Excel file "Data\BD_2019_AllData
 3. Run "3.Estimation.do"
 
 4. For appendix run "3.Estimation_appendix.do"
+
+
+Published research on this code: https://www.sciencedirect.com/science/article/pii/S0925753525002577
